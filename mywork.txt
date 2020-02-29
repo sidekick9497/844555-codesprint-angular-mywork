@@ -1,0 +1,22 @@
+My associate id:
+844555
+Other team members:
+844505, 844504, 844572, 844540
+Team lead:
+844555
+
+My Role in team:
+1. To develop the basic skeleton structure of angular application including routes,component divisions and module depedencies
+2. To develop the home component,navigation component Rest services, and 404 fallback page.
+My developement files:-
+
+HomeComponent
+Nav-component
+Not-found component
+Appointment Service
+
+I was strong in : -
+1. Creating angular app design and dividing into relevant components.
+2. Creating routes
+3. Typescript
+4. Creating Reactive forms.
